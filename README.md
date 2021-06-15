@@ -12,11 +12,11 @@
 이 채팅프로그램은 서버가 여려명의 사용자를 받고 그 사용자들을 첫번째 들어온 순서부터 Client1라고 이름을 지어준뒤 이 사람이 채팅을 쳤을때 다른 모든 클라이언트에게 채팅이 간다.
 
 
-####실행결과
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅서버 클라이언트 접속후.PNG"></img>
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅서버 전체화면.PNG"></img>
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅서버 채팅후.PNG"></img>
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅클라이언트1.PNG"></img>
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅클라이언트2.PNG"></img>
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅클라이언트3.PNG"></img>
-<img src="C:\Users\lovel\OneDrive\바탕 화면\SocketProgramming\채팅서버 종료후 전체화면.PNG"></img>
+####실행화면
+![채팅서버 클라이언트 접속후](https://user-images.githubusercontent.com/71123177/121987791-26a46180-cdd4-11eb-93c0-fc00ca7a1d4b.PNG)
+![채팅서버 전체화면](https://user-images.githubusercontent.com/71123177/121987829-358b1400-cdd4-11eb-9e84-0fc04e89ec5f.PNG)
+![채팅서버 채팅후](https://user-images.githubusercontent.com/71123177/121987843-3b80f500-cdd4-11eb-895b-585e18f92c1b.PNG)
+![채팅클라이언트1](https://user-images.githubusercontent.com/71123177/121987850-3e7be580-cdd4-11eb-8c80-caa152b2c3d2.PNG)
+![채팅클라이언트2](https://user-images.githubusercontent.com/71123177/121987855-4176d600-cdd4-11eb-8b0c-d3c54d97ac75.PNG)
+![채팅클라이언트3](https://user-images.githubusercontent.com/71123177/121987860-450a5d00-cdd4-11eb-9652-251b7582679d.PNG)
+![채팅서버 종료후 전체화면](https://user-images.githubusercontent.com/71123177/121987864-49367a80-cdd4-11eb-8be3-acec7e5d9694.PNG)
