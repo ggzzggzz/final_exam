@@ -18,6 +18,11 @@
 
 그래서 GUI를 쓰지 못하고 원래 하던대로 콘솔에서 하는 것으로 결정을 했던 점이 아쉬웠다.
 
+## 수정
+
+GUI를 사용하는 법을 알았지만 채팅프로그램으로 하다보니 GUI를 쓰기에는 애매한거 같다고 판단하여 GUI부분은 넣지 않았습니다.
+GUI 사용 법: Xwin Server를 실행하면 GUI사용
+
 ## 실행화면
 ![채팅서버 클라이언트 접속후](https://user-images.githubusercontent.com/71123177/121987791-26a46180-cdd4-11eb-93c0-fc00ca7a1d4b.PNG)
 ![채팅서버 전체화면](https://user-images.githubusercontent.com/71123177/121987829-358b1400-cdd4-11eb-9e84-0fc04e89ec5f.PNG)
